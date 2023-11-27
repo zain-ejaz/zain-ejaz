@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zain-ejaz&label=Profile%20views&color=0e75b6&style=flat" alt="zain-ejaz" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
-
 - 💬 Ask me about **C#, C++ and Python**
 
 - 📫 How to reach me **zain-ejaz@hotmail.co.uk**
