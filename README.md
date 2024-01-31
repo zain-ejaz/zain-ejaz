@@ -9,7 +9,7 @@
 
 - 👀 I'm interested in Full Stack Software Engineering 
 
-- 📜 I am currently working on a video game
+- 📜 I am currently working on a Video Game
 
 - 📫 How to reach me **zain-ejaz@hotmail.co.uk**
 
