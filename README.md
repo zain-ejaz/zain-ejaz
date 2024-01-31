@@ -5,6 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zain-ejaz&label=Profile%20views&color=0e75b6&style=flat" alt="zain-ejaz" /> </p>
 
+- 🎓 I'm a recent Computer Science (BSc) Graduate from the University of Derby
+
+- 👀 I'm interested in Full Stack Software Engineering 
+
+- 🎮 I am currently working on a video game
+
 - 📫 How to reach me **zain-ejaz@hotmail.co.uk**
 
 <h3 align="left">Connect with me:</h3>
